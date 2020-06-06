@@ -8,3 +8,7 @@ Unity package  : Swipe Slide Show Tutorial to image gallery and change size (gam
 Unity package : Swipe Slide Show Tutorial to image gallery and change size (gameObject.transform.localScale) and Rotate (gameObject.transform.eulerAngles)
 
 [![Watch the video](https://img.youtube.com/vi/2oGGZl0h8co/0.jpg)](http://youtu.be/2oGGZl0h8co)]]
+
+Can be start web Augmented reality
+
+Https://Webxr.edafait.com
